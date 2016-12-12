@@ -1,0 +1,282 @@
+[
+   {
+      "model":"plate.Fixture",
+      "pk":5,
+      "fields":{
+         "game_no":"5",
+         "round_no":"1",
+         "game_code":"R01Bri",
+         "game_day":"Saturday",
+         "game_date":"2017-03-25",
+         "hmaw_status":"A",
+         "home_team":"Brisbane",
+         "ht_code":"Bri",
+         "away_team":"Gold Coast",
+         "at_code":"Gol",
+         "ground_name":"Metricon Stadium",
+         "game_time":"7:25 pm",
+         "time_slot":"N",
+         "game_state":"QLD"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":6,
+      "fields":{
+         "game_no":"6",
+         "round_no":"1",
+         "game_code":"R01Ess",
+         "game_day":"Saturday",
+         "game_date":"2017-03-25",
+         "hmaw_status":"H",
+         "home_team":"Essendon",
+         "ht_code":"Ess",
+         "away_team":"Hawthorn",
+         "at_code":"Haw",
+         "ground_name":"MCG",
+         "game_time":"7:25 pm",
+         "time_slot":"N",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":7,
+      "fields":{
+         "game_no":"7",
+         "round_no":"1",
+         "game_code":"R01Nor",
+         "game_day":"Sunday",
+         "game_date":"2017-03-26",
+         "hmaw_status":"H",
+         "home_team":"North Melbourne",
+         "ht_code":"Nor",
+         "away_team":"WCE",
+         "at_code":"WCE",
+         "ground_name":"Etihad Stadium",
+         "game_time":"1:10 pm",
+         "time_slot":"D",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":8,
+      "fields":{
+         "game_no":"8",
+         "round_no":"1",
+         "game_code":"R01Ade",
+         "game_day":"Sunday",
+         "game_date":"2017-03-26",
+         "hmaw_status":"H",
+         "home_team":"Adelaide",
+         "ht_code":"Ade",
+         "away_team":"Greater Western Sydney",
+         "at_code":"Gre",
+         "ground_name":"Adelaide Oval",
+         "game_time":"3:20 pm",
+         "time_slot":"D",
+         "game_state":"SA"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":9,
+      "fields":{
+         "game_no":"9",
+         "round_no":"1",
+         "game_code":"R01Fre",
+         "game_day":"Sunday",
+         "game_date":"2017-03-26",
+         "hmaw_status":"H",
+         "home_team":"Fremantle",
+         "ht_code":"Fre",
+         "away_team":"Geelong",
+         "at_code":"Gee",
+         "ground_name":"Domain Stadium",
+         "game_time":"7:40 pm",
+         "time_slot":"T",
+         "game_state":"WA"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":10,
+      "fields":{
+         "game_no":"10",
+         "round_no":"2",
+         "game_code":"R02Ric",
+         "game_day":"Thursday",
+         "game_date":"2017-03-30",
+         "hmaw_status":"H",
+         "home_team":"Richmond",
+         "ht_code":"Ric",
+         "away_team":"Collingwood",
+         "at_code":"Col",
+         "ground_name":"MCG",
+         "game_time":"7:20 pm",
+         "time_slot":"N",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":11,
+      "fields":{
+         "game_no":"11",
+         "round_no":"2",
+         "game_code":"R02Wes",
+         "game_day":"Friday",
+         "game_date":"2017-03-31",
+         "hmaw_status":"H",
+         "home_team":"Western Bulldogs",
+         "ht_code":"Wes",
+         "away_team":"Sydney",
+         "at_code":"Syd",
+         "ground_name":"Etihad Stadium",
+         "game_time":"7:50 pm",
+         "time_slot":"N",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":12,
+      "fields":{
+         "game_no":"12",
+         "round_no":"2",
+         "game_code":"R02Haw",
+         "game_day":"Saturday",
+         "game_date":"2017-04-01",
+         "hmaw_status":"H",
+         "home_team":"Hawthorn",
+         "ht_code":"Haw",
+         "away_team":"Adelaide",
+         "at_code":"Ade",
+         "ground_name":"MCG",
+         "game_time":"1:45 pm",
+         "time_slot":"D",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":13,
+      "fields":{
+         "game_no":"13",
+         "round_no":"2",
+         "game_code":"R02Gre",
+         "game_day":"Saturday",
+         "game_date":"2017-04-01",
+         "hmaw_status":"H",
+         "home_team":"Greater Western Sydney",
+         "ht_code":"Gre",
+         "away_team":"Gold Coast",
+         "at_code":"Gol",
+         "ground_name":"Spotless Stadium",
+         "game_time":"4:35 pm",
+         "time_slot":"T",
+         "game_state":"NSW"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":14,
+      "fields":{
+         "game_no":"14",
+         "round_no":"2",
+         "game_code":"R02Bri",
+         "game_day":"Saturday",
+         "game_date":"2017-04-01",
+         "hmaw_status":"H",
+         "home_team":"Brisbane",
+         "ht_code":"Bri",
+         "away_team":"Essendon",
+         "at_code":"Ess",
+         "ground_name":"Gabba",
+         "game_time":"7:25 pm",
+         "time_slot":"N",
+         "game_state":"QLD"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":15,
+      "fields":{
+         "game_no":"15",
+         "round_no":"2",
+         "game_code":"R02WCE",
+         "game_day":"Saturday",
+         "game_date":"2017-04-01",
+         "hmaw_status":"H",
+         "home_team":"WCE",
+         "ht_code":"WCE",
+         "away_team":"StKilda",
+         "at_code":"StK",
+         "ground_name":"Domain Stadium",
+         "game_time":"7:40 pm",
+         "time_slot":"T",
+         "game_state":"WA"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":16,
+      "fields":{
+         "game_no":"16",
+         "round_no":"2",
+         "game_code":"R02Gee",
+         "game_day":"Sunday",
+         "game_date":"2017-04-02",
+         "hmaw_status":"H",
+         "home_team":"Geelong",
+         "ht_code":"Gee",
+         "away_team":"North Melbourne",
+         "at_code":"Nor",
+         "ground_name":"Etihad Stadium",
+         "game_time":"1:10 pm",
+         "time_slot":"D",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":17,
+      "fields":{
+         "game_no":"17",
+         "round_no":"2",
+         "game_code":"R02Mel",
+         "game_day":"Sunday",
+         "game_date":"2017-04-02",
+         "hmaw_status":"H",
+         "home_team":"Melbourne",
+         "ht_code":"Mel",
+         "away_team":"Carlton",
+         "at_code":"Car",
+         "ground_name":"MCG",
+         "game_time":"3:20 pm",
+         "time_slot":"D",
+         "game_state":"VIC"
+      }
+   },
+   {
+      "model":"plate.Fixture",
+      "pk":18,
+      "fields":{
+         "game_no":"18",
+         "round_no":"2",
+         "game_code":"R02Por",
+         "game_day":"Sunday",
+         "game_date":"2017-04-02",
+         "hmaw_status":"H",
+         "home_team":"Port Adelaide",
+         "ht_code":"Por",
+         "away_team":"Fremantle",
+         "at_code":"Fre",
+         "ground_name":"Adelaide Oval",
+         "game_time":"4:40 pm",
+         "time_slot":"D",
+         "game_state":"SA"
+      }
+   }
+]

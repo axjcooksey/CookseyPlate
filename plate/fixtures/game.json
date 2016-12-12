@@ -1,0 +1,82 @@
+[
+  {
+    "model": "plate.Fixture",
+    "pk": 1,
+    "fields": {
+      "game_no": "1",
+      "round_no": "1",
+      "game_code": "R01Car",
+      "game_day": "Thursday",
+      "game_date": "2017-03-23",
+      "hmaw_status": "H",
+      "home_team": "Carlton",
+      "ht_code": "Car",
+      "away_team": "Richmond",
+      "at_code": "Ric",
+      "ground_name": "MCG",
+      "game_time": "7:20 pm",
+      "time_slot": "N",
+      "game_state": "VIC"
+    }
+},
+  {
+  "model": "plate.Fixture",
+  "pk": 2,
+  "fields": {
+    "game_no": "2",
+    "round_no": "1",
+    "game_code": "R01Col",
+    "game_day": "Friday",
+    "game_date": "2017-03-24",
+    "hmaw_status": "H",
+    "home_team": "Collingwood",
+    "ht_code": "Col",
+    "away_team": "Western Bulldogs",
+    "at_code": "Wes",
+    "ground_name": "MCG",
+    "game_time": "7:50 pm",
+    "time_slot": "N",
+    "game_state": "VIC"
+  }
+},
+  {
+  "model": "plate.Fixture",
+  "pk": 3,
+  "fields": {
+    "game_no": "3",
+    "round_no": "1",
+    "game_code": "R01StK",
+    "game_day": "Saturday",
+    "game_date": "2017-03-25",
+    "hmaw_status": "H",
+    "home_team": "StKilda",
+    "ht_code": "StK",
+    "away_team": "Melbourne",
+    "at_code": "Mel",
+    "ground_name": "Etihad Stadium",
+    "game_time": "4:35 pm",
+    "time_slot": "T",
+    "game_state": "VIC"
+  }
+},
+    {
+    "model": "plate.Fixture",
+    "pk": 4,
+    "fields": {
+      "game_no": "4",
+      "round_no": "1",
+      "game_code": "R01Syd",
+      "game_day": "Saturday",
+      "game_date": "2017-03-25",
+      "hmaw_status": "H",
+      "home_team": "Sydney",
+      "ht_code": "Syd",
+      "away_team": "Port Adelaide",
+      "at_code": "Por",
+      "ground_name": "SCG",
+      "game_time": "4:35 pm",
+      "time_slot": "T",
+      "game_state": "NSW"
+      }
+  }
+]

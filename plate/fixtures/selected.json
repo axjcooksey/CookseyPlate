@@ -1,0 +1,12 @@
+[
+  {
+    "model": "plate.Selection",
+    "pk": 1,
+    "fields": {
+      "username": "Alex",
+      "game_no": "1",
+      "round_no": "1",
+      "selected_team": "Richmond"
+    }
+  }
+]

@@ -1,0 +1,66 @@
+{% load static %}
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %} </title>
+
+    <link rel="stylesheet" href="{% static "css/foundation.css" %}">
+    <link rel="stylesheet" href="{% static "css/app.css" %}">
+  </head>
+  <body>
+    <!-- Start Top Bar -->
+    <div class="top-bar" id="main-menu">
+      <div class="top-bar-left">
+        <ul class="dropdown menu" data-dropdown-menu>
+          <li class="menu-text"><a href="/">Cooksey Plate</a></li>
+          <li class="menu-text"><a href="/1">Tipping</a></li>
+          <li class="menu-text"><a href="/results">Results</a></li>
+        </ul>
+      </div>
+      <div class="top-bar-right">
+        <ul class="dropdown menu" data-dropdown-menu>
+          {% if user.is_authenticated %}
+          <li><a href="/logout/">Logout</a></li>
+          {% else %}
+          <li class="menu-text">Log In</li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+    <!-- End Top Bar -->
+
+    <div class="callout">
+      <div class="row column text-center">
+        <h1>Cooksey Plate</h1>
+        <h2 class="subheader">AFL Tipping Competition</h2>
+      </div>
+    </div>
+
+
+    <!-- Page Numbering -->
+    <div class="row medium-8 large-7 columns">
+      <div class="column row">
+        <label class="text-center">Select Round</label>
+        <ul class="pagination text-center" role="navigation" aria-label="Pagination">
+            <li class="pagination-previous disabled">Previous</li>
+            <li class="current"><span class="show-for-sr">You're on round</span> 0</li>
+            <li><a href="/1" aria-label="Round 1">1</a></li>
+            <li><a href="/2" aria-label="Round 2">2</a></li>
+            <li><a>3</a></li>
+            <li><a>4</a></li>
+            <li><a>5</a></li>
+            <li class="pagination-next"><a href="/1" aria-label="Next page">Next</a></li>
+        </ul>
+      </div>
+
+    {% block content %}{% endblock %}
+    <script src="{% static "js/vendor/jquery.js" %}"></script>
+    <script src="{% static "js/vendor/what-input.js" %}"></script>
+    <script src="{% static "js/vendor/foundation.js" %}"></script>
+    <script src="{% static "js/app.js" %}"></script>
+    {% block scripts %}{% endblock %}
+  </body>
+</html>

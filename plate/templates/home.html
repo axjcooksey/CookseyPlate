@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %} {{ page_name }} {% endblock %}
+
+{% block content %}
+
+
+
+{% endblock %}
+
+
+  {% if round_list %}
+    <ul>
+    {% for Fixture in round_list %}
+        <li><a href="/{{ Fixture.round_no }}/">{{ Fixture.round_no }}</a></li>
+    {% endfor %}
+    </ul>
+  {% else %}
+      <p>No polls are available.</p>
+  {% endif %}
+
+
+<table style="width:100%">
+  <tr>
+    <th>Round</th>
+    <th>Game</th>
+    <th>Home Team</th>
+    <th>Away Team</th>
+  </tr>
+  {% if game_list %}
+      {% for Fixture in game_list %}
+          <tr>
+            <td>{{ Fixture.round_no }}</td>
+            <td>{{ Fixture.rg_no }}</td>
+            <td>{{ Fixture.home_team }} </td>
+            <td>{{ Fixture.away_team }}</td>
+          </tr>
+    {% endfor %}
+</table>
+
+{% else %}
+    <p>No games are available.</p>
+{% endif %}
+
+</div>
+
+
+<form action="" method="post">
+{% csrf_token %}
+{% for Fixture in game_list %}
+    <input type="radio" name="selection" id="selection{{ forloop.counter }}" value="{{ Fixture.game_no }}" />
+    <label for="selection{{ forloop.counter }}">{{ Fixture.home_team }} {{ Fixture.away_team }}</label><br />
+{% endfor %}
+<input type="submit" value="Vote" />
+</form>

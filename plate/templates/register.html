@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %} Register {% endblock %}
+
+{% block content %}
+<div class="top-bar" id="main-menu">
+  <div class="top-bar-left">
+    <ul class="dropdown menu" data-dropdown-menu>
+      <li class="menu-text">Cooksey Plate</li>
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="dropdown menu" data-dropdown-menu>
+      {% if user.is_authenticated %}
+      <li><a href="/logout/">Logout</a></li>
+      {% else %}
+      <li class="menu-text">Log In</li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-6 medium-centered large-4 large-centered columns">
+    <form method="post" action="{% url 'register' %}">
+      {% csrf_token %}
+      <div class="row column log-in-form">
+        <h4 class="text-center">Register</h4>
+        {{ form.errors }}
+        <label>{{ form.username.label_tag }}
+          {{ form.username }}
+        </label>
+        <label>{{ form.email.label_tag }}
+          {{ form.email }}
+        </label>
+        <label>{{ form.password1.label_tag }}
+          {{ form.password1 }}
+        </label>
+        <label>{{ form.password2.label_tag }}
+          {{ form.password2 }}
+        </label>
+        <input type="submit" class="button expanded" value="Register">
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}

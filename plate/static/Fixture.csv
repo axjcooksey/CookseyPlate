@@ -1,0 +1,199 @@
+game_no,round_no,game_code,game_day,game_date,hmaw_status,home_team,ht_code,away_team,at_code,ground_name,game_time,time_slot,game_state
+1,1,R01Car,Thursday,23/3/17,H,Carlton,Car,Richmond,Ric,MCG,7:20 pm,N,VIC
+2,1,R01Col,Friday,24/3/17,H,Collingwood,Col,Western Bulldogs,Wes,MCG,7:50 pm,N,VIC
+3,1,R01StK,Saturday,25/3/17,H,StKilda,StK,Melbourne,Mel,Etihad Stadium,4:35 pm,T,VIC
+4,1,R01Syd,Saturday,25/3/17,H,Sydney,Syd,Port Adelaide,Por,SCG,4:35 pm,T,NSW
+5,1,R01Bri,Saturday,25/3/17,A,Brisbane,Bri,Gold Coast,Gol,Metricon Stadium,7:25 pm,N,QLD
+6,1,R01Ess,Saturday,25/3/17,H,Essendon,Ess,Hawthorn,Haw,MCG,7:25 pm,N,VIC
+7,1,R01Nor,Sunday,26/3/17,H,North Melbourne,Nor,WCE,WCE,Etihad Stadium,1:10 pm,D,VIC
+8,1,R01Ade,Sunday,26/3/17,H,Adelaide,Ade,Greater Western Sydney,Gre,Adelaide Oval,3:20 pm,D,SA
+9,1,R01Fre,Sunday,26/3/17,H,Fremantle,Fre,Geelong,Gee,Domain Stadium,7:40 pm,T,WA
+10,2,R02Ric,Thursday,30/3/17,H,Richmond,Ric,Collingwood,Col,MCG,7:20 pm,N,VIC
+11,2,R02Wes,Friday,31/3/17,H,Western Bulldogs,Wes,Sydney,Syd,Etihad Stadium,7:50 pm,N,VIC
+12,2,R02Haw,Saturday,1/4/17,H,Hawthorn,Haw,Adelaide,Ade,MCG,1:45 pm,D,VIC
+13,2,R02Gre,Saturday,1/4/17,H,Greater Western Sydney,Gre,Gold Coast,Gol,Spotless Stadium,4:35 pm,T,NSW
+14,2,R02Bri,Saturday,1/4/17,H,Brisbane,Bri,Essendon,Ess,Gabba,7:25 pm,N,QLD
+15,2,R02WCE,Saturday,1/4/17,H,WCE,WCE,StKilda,StK,Domain Stadium,7:40 pm,T,WA
+16,2,R02Gee,Sunday,2/4/17,H,Geelong,Gee,North Melbourne,Nor,Etihad Stadium,1:10 pm,D,VIC
+17,2,R02Mel,Sunday,2/4/17,H,Melbourne,Mel,Carlton,Car,MCG,3:20 pm,D,VIC
+18,2,R02Por,Sunday,2/4/17,H,Port Adelaide,Por,Fremantle,Fre,Adelaide Oval,4:40 pm,D,SA
+19,3,R03Syd,Friday,7/4/17,H,Sydney,Syd,Collingwood,Col,SCG,7:50 pm,N,NSW
+20,3,R03Nor,Saturday,8/4/17,H,North Melbourne,Nor,Greater Western Sydney,Gre,Blundstone Arena,1:45 pm,D,TAS
+21,3,R03Ric,Saturday,8/4/17,H,Richmond,Ric,WCE,WCE,MCG,2:10 pm,D,VIC
+22,3,R03Gee,Saturday,8/4/17,H,Geelong,Gee,Melbourne,Mel,Etihad Stadium,4:35 pm,T,VIC
+23,3,R03Ade,Saturday,8/4/17,A,Adelaide,Ade,Port Adelaide,Por,Adelaide Oval,7:40 pm,N,SA
+24,3,R03Fre,Saturday,8/4/17,H,Fremantle,Fre,Western Bulldogs,Wes,Domain Stadium,7:40 pm,N,WA
+25,3,R03StK,Sunday,9/4/17,H,StKilda,StK,Brisbane,Bri,Etihad Stadium,1:10 pm,D,VIC
+26,3,R03Car,Sunday,9/4/17,H,Carlton,Car,Essendon,Ess,MCG,3:20 pm,D,VIC
+27,3,R03Gol,Sunday,9/4/17,H,Gold Coast,Gol,Hawthorn,Haw,Metricon Stadium,4:40 pm,T,QLD
+28,4,R04WCE,Thursday,13/4/17,H,WCE,WCE,Sydney,Syd,Domain Stadium,8:10 pm,N,WA
+29,4,R04Nor,Friday,14/4/17,H,North Melbourne,Nor,Western Bulldogs,Wes,Etihad Stadium,4:20 pm,T,VIC
+30,4,R04Mel,Saturday,15/4/17,H,Melbourne,Mel,Fremantle,Fre,MCG,1:45 pm,D,VIC
+31,4,R04Gre,Saturday,15/4/17,H,Greater Western Sydney,Gre,Port Adelaide,Por,Manuka Oval,4:35 pm,T,NSW
+32,4,R04Car,Saturday,15/4/17,H,Carlton,Car,Gold Coast,Gol,Etihad Stadium,7:25 pm,N,VIC
+33,4,R04Ade,Saturday,15/4/17,H,Adelaide,Ade,Essendon,Ess,Adelaide Oval,7:40 pm,N,SA
+34,4,R04Col,Sunday,16/4/17,H,Collingwood,Col,StKilda,StK,Etihad Stadium,3:20 pm,D,VIC
+35,4,R04Bri,Sunday,16/4/17,H,Brisbane,Bri,Richmond,Ric,Gabba,4:40 pm,T,QLD
+36,4,R04Haw,Monday,17/4/17,H,Hawthorn,Haw,Geelong,Gee,MCG,3:20 pm,D,VIC
+37,5,R05Por,Friday,21/4/17,H,Port Adelaide,Por,Carlton,Car,Adelaide Oval,7:50 pm,N,SA
+38,5,R05Wes,Saturday,22/4/17,H,Western Bulldogs,Wes,Brisbane,Bri,Etihad Stadium,1:45 pm,D,VIC
+39,5,R05Gol,Saturday,22/4/17,H,Gold Coast,Gol,Adelaide,Ade,Metricon Stadium,4:35 pm,T,QLD
+40,5,R05Syd,Saturday,22/4/17,H,Sydney,Syd,Greater Western Sydney,Gre,SCG,7:25 pm,N,NSW
+41,5,R05Fre,Saturday,22/4/17,H,Fremantle,Fre,North Melbourne,Nor,Domain Stadium,7:40 pm,N,WA
+42,5,R05StK,Sunday,23/4/17,H,StKilda,StK,Geelong,Gee,Etihad Stadium,3:20 pm,D,VIC
+43,5,R05Haw,Sunday,23/4/17,H,Hawthorn,Haw,WCE,WCE,MCG,4:40 pm,T,VIC
+44,5,R05Ric,Monday,24/4/17,H,Richmond,Ric,Melbourne,Mel,MCG,7:25 pm,N,VIC
+45,5,R05Ess,Tuesday,25/4/17,H,Essendon,Ess,Collingwood,Col,MCG,3:20 pm,D,VIC
+46,6,R06Gre,Friday,28/4/17,H,Greater Western Sydney,Gre,Western Bulldogs,Wes,Manuka Oval,7:50 pm,N,NSW
+47,6,R06Haw,Saturday,29/4/17,H,Hawthorn,Haw,StKilda,StK,University of Tasmania Stadium,1:45 pm,D,TAS
+48,6,R06Car,Saturday,29/4/17,H,Carlton,Car,Sydney,Syd,MCG,2:10 pm,D,VIC
+49,6,R06Bri,Saturday,29/4/17,H,Brisbane,Bri,Port Adelaide,Por,Gabba,4:35 pm,T,QLD
+50,6,R06Nor,Saturday,29/4/17,H,North Melbourne,Nor,Gold Coast,Gol,Etihad Stadium,7:25 pm,N,VIC
+51,6,R06WCE,Saturday,29/4/17,H,WCE,WCE,Fremantle,Fre,Domain Stadium,8:10 pm,N,WA
+52,6,R06Ess,Sunday,30/4/17,H,Essendon,Ess,Melbourne,Mel,Etihad Stadium,1:10 pm,D,VIC
+53,6,R06Gee,Sunday,30/4/17,H,Geelong,Gee,Collingwood,Col,MCG,3:20 pm,D,VIC
+54,6,R06Ade,Sunday,30/4/17,H,Adelaide,Ade,Richmond,Ric,Adelaide Oval,4:40 pm,D,SA
+55,7,R07StK,Friday,5/5/17,H,StKilda,StK,Greater Western Sydney,Gre,Etihad Stadium,7:50 pm,N,VIC
+56,7,R07Nor,Saturday,6/5/17,H,North Melbourne,Nor,Adelaide,Ade,Blundstone Arena,1:45 pm,D,TAS
+57,7,R07Col,Saturday,6/5/17,H,Collingwood,Col,Carlton,Car,MCG,2:10 pm,D,VIC
+58,7,R07Por,Saturday,6/5/17,H,Port Adelaide,Por,WCE,WCE,Adelaide Oval,4:35 pm,T,SA
+59,7,R07Gol,Saturday,6/5/17,H,Gold Coast,Gol,Geelong,Gee,Metricon Stadium,7:25 pm,N,QLD
+60,7,R07Wes,Saturday,6/5/17,H,Western Bulldogs,Wes,Richmond,Ric,Etihad Stadium,7:25 pm,N,VIC
+61,7,R07Syd,Sunday,7/5/17,H,Sydney,Syd,Brisbane,Bri,SCG,1:10 pm,D,NSW
+62,7,R07Mel,Sunday,7/5/17,H,Melbourne,Mel,Hawthorn,Haw,MCG,3:20 pm,D,VIC
+63,7,R07Fre,Sunday,7/5/17,H,Fremantle,Fre,Essendon,Ess,Domain Stadium,4:40 pm,T,WA
+64,8,R08WCE,Friday,12/5/17,H,WCE,WCE,Western Bulldogs,Wes,Domain Stadium,8:10 pm,N,WA
+65,8,R08Haw,Saturday,13/5/17,H,Hawthorn,Haw,Brisbane,Bri,University of Tasmania Stadium,1:45 pm,D,TAS
+66,8,R08StK,Saturday,13/5/17,H,StKilda,StK,Carlton,Car,Etihad Stadium,2:10 pm,D,VIC
+67,8,R08Gre,Saturday,13/5/17,H,Greater Western Sydney,Gre,Collingwood,Col,Spotless Stadium,4:35 pm,T,NSW
+68,8,R08Ess,Saturday,13/5/17,H,Essendon,Ess,Geelong,Gee,MCG,7:25 pm,N,VIC
+69,8,R08Ade,Saturday,13/5/17,H,Adelaide,Ade,Melbourne,Mel,Adelaide Oval,7:40 pm,N,SA
+70,8,R08Ric,Sunday,14/5/17,H,Richmond,Ric,Fremantle,Fre,MCG,1:10 pm,D,VIC
+71,8,R08Gol,Sunday,14/5/17,H,Gold Coast,Gol,Port Adelaide,Por,Jiangwan Sports Centre,3:20 pm,D,CHI
+72,8,R08Nor,Sunday,14/5/17,H,North Melbourne,Nor,Sydney,Syd,Etihad Stadium,4:40 pm,T,VIC
+73,9,R09Gee,Friday,19/5/17,H,Geelong,Gee,Western Bulldogs,Wes,Simonds Stadium,7:50 pm,N,VIC
+74,9,R09StK,Saturday,20/5/17,H,StKilda,StK,Sydney,Syd,Etihad Stadium,1:45 pm,D,VIC
+75,9,R09Gre,Saturday,20/5/17,H,Greater Western Sydney,Gre,Richmond,Ric,Spotless Stadium,4:35 pm,T,NSW
+76,9,R09Bri,Saturday,20/5/17,H,Brisbane,Bri,Adelaide,Ade,Gabba,7:25 pm,N,QLD
+77,9,R09Col,Saturday,20/5/17,H,Collingwood,Col,Hawthorn,Haw,MCG,7:25 pm,N,VIC
+78,9,R09Ess,Sunday,21/5/17,H,Essendon,Ess,WCE,WCE,Etihad Stadium,1:10 pm,D,VIC
+79,9,R09Mel,Sunday,21/5/17,H,Melbourne,Mel,North Melbourne,Nor,MCG,3:20 pm,D,VIC
+80,9,R09Fre,Sunday,21/5/17,H,Fremantle,Fre,Carlton,Car,Domain Stadium,4:40 pm,T,WA
+81,10,R10Gee,Thursday,25/5/17,H,Geelong,Gee,Port Adelaide,Por,Simonds Stadium,7:20 pm,N,VIC
+82,10,R10Syd,Friday,26/5/17,H,Sydney,Syd,Hawthorn,Haw,SCG,7:50 pm,N,NSW
+83,10,R10Wes,Saturday,27/5/17,H,Western Bulldogs,Wes,StKilda,StK,Etihad Stadium,1:45 pm,D,VIC
+84,10,R10Mel,Saturday,27/5/17,H,Melbourne,Mel,Gold Coast,Gol,TIO Traeger Park,4:35 pm,T,NTE
+85,10,R10Ric,Saturday,27/5/17,H,Richmond,Ric,Essendon,Ess,MCG,7:25 pm,N,VIC
+86,10,R10Ade,Saturday,27/5/17,H,Adelaide,Ade,Fremantle,Fre,Adelaide Oval,7:40 pm,N,SA
+87,10,R10Col,Sunday,28/5/17,H,Collingwood,Col,Brisbane,Bri,MCG,1:10 pm,D,VIC
+88,10,R10Car,Sunday,28/5/17,H,Carlton,Car,North Melbourne,Nor,Etihad Stadium,3:20 pm,D,VIC
+89,10,R10WCE,Sunday,28/5/17,H,WCE,WCE,Greater Western Sydney,Gre,Domain Stadium,4:40 pm,T,WA
+90,11,R11Por,Thursday,1/6/17,H,Port Adelaide,Por,Hawthorn,Haw,Adelaide Oval,7:50 pm,N,SA
+91,11,R11Gee,Friday,2/6/17,H,Geelong,Gee,Adelaide,Ade,Simonds Stadium,7:50 pm,N,VIC
+92,11,R11Gol,Saturday,3/6/17,H,Gold Coast,Gol,WCE,WCE,Metricon Stadium,1:45 pm,D,QLD
+93,11,R11Gre,Saturday,3/6/17,H,Greater Western Sydney,Gre,Essendon,Ess,Spotless Stadium,4:35 pm,T,NSW
+94,11,R11Nor,Saturday,3/6/17,H,North Melbourne,Nor,Richmond,Ric,Etihad Stadium,7:25 pm,N,VIC
+95,11,R11Fre,Sunday,4/6/17,H,Fremantle,Fre,Collingwood,Col,Domain Stadium,4:40 pm,T,WA
+96,12,R12Syd,Thursday,8/6/17,H,Sydney,Syd,Western Bulldogs,Wes,SCG,7:20 pm,N,NSW
+97,12,R12Ade,Friday,9/6/17,H,Adelaide,Ade,StKilda,StK,Adelaide Oval,7:50 pm,N,SA
+98,12,R12Haw,Saturday,10/6/17,H,Hawthorn,Haw,Gold Coast,Gol,MCG,1:45 pm,D,VIC
+99,12,R12Bri,Saturday,10/6/17,H,Brisbane,Bri,Fremantle,Fre,Gabba,4:35 pm,T,QLD
+100,12,R12Ess,Saturday,10/6/17,H,Essendon,Ess,Port Adelaide,Por,Etihad Stadium,7:25 pm,N,VIC
+101,12,R12Car,Sunday,11/6/17,H,Carlton,Car,Greater Western Sydney,Gre,Etihad Stadium,3:20 pm,D,VIC
+102,12,R12Mel,Monday,12/6/17,H,Melbourne,Mel,Collingwood,Col,MCG,3:20 pm,D,VIC
+103,13,R13WCE,Thursday,15/6/17,H,WCE,WCE,Geelong,Gee,Domain Stadium,8:10 pm,N,WA
+104,13,R13Nor,Friday,16/6/17,H,North Melbourne,Nor,StKilda,StK,Etihad Stadium,7:50 pm,N,VIC
+105,13,R13Ric,Saturday,17/6/17,H,Richmond,Ric,Sydney,Syd,MCG,1:45 pm,D,VIC
+106,13,R13Por,Saturday,17/6/17,H,Port Adelaide,Por,Brisbane,Bri,Adelaide Oval,4:35 pm,T,SA
+107,13,R13Gol,Saturday,17/6/17,H,Gold Coast,Gol,Carlton,Car,Metricon Stadium,7:25 pm,N,QLD
+108,13,R13Wes,Sunday,18/6/17,H,Western Bulldogs,Wes,Melbourne,Mel,Etihad Stadium,3:20 pm,D,VIC
+109,14,R14Ade,Thursday,22/6/17,H,Adelaide,Ade,Hawthorn,Haw,Adelaide Oval,7:50 pm,N,SA
+110,14,R14Syd,Friday,23/6/17,H,Sydney,Syd,Essendon,Ess,SCG,7:50 pm,N,NSW
+111,14,R14Col,Saturday,24/6/17,H,Collingwood,Col,Port Adelaide,Por,MCG,1:45 pm,D,VIC
+112,14,R14Bri,Saturday,24/6/17,H,Brisbane,Bri,Greater Western Sydney,Gre,Gabba,4:35 pm,T,QLD
+113,14,R14Wes,Saturday,24/6/17,H,Western Bulldogs,Wes,North Melbourne,Nor,Etihad Stadium,7:25 pm,N,VIC
+114,14,R14WCE,Saturday,24/6/17,H,WCE,WCE,Melbourne,Mel,Domain Stadium,7:40 pm,N,WA
+115,14,R14Gee,Sunday,25/6/17,H,Geelong,Gee,Fremantle,Fre,Simonds Stadium,1:10 pm,D,VIC
+116,14,R14Ric,Sunday,25/6/17,H,Richmond,Ric,Carlton,Car,MCG,3:20 pm,D,VIC
+117,14,R14StK,Sunday,25/6/17,H,StKilda,StK,Gold Coast,Gol,Etihad Stadium,4:40 pm,T,VIC
+118,15,R15Mel,Friday,30/6/17,H,Melbourne,Mel,Sydney,Syd,MCG,7:50 pm,N,VIC
+119,15,R15Wes,Saturday,1/7/17,H,Western Bulldogs,Wes,WCE,WCE,Etihad Stadium,1:45 pm,D,VIC
+120,15,R15Car,Saturday,1/7/17,H,Carlton,Car,Adelaide,Ade,MCG,2:10 pm,D,VIC
+121,15,R15Gol,Saturday,1/7/17,H,Gold Coast,Gol,North Melbourne,Nor,Metricon Stadium,4:35 pm,T,QLD
+122,15,R15Gre,Saturday,1/7/17,H,Greater Western Sydney,Gre,Geelong,Gee,Spotless Stadium,7:25 pm,N,NSW
+123,15,R15Por,Saturday,1/7/17,H,Port Adelaide,Por,Richmond,Ric,Adelaide Oval,7:40 pm,N,SA
+124,15,R15Ess,Sunday,2/7/17,H,Essendon,Ess,Brisbane,Bri,Etihad Stadium,1:10 pm,D,VIC
+125,15,R15Haw,Sunday,2/7/17,H,Hawthorn,Haw,Collingwood,Col,MCG,3:20 pm,D,VIC
+126,15,R15Fre,Sunday,2/7/17,H,Fremantle,Fre,StKilda,StK,Domain Stadium,4:40 pm,T,WA
+127,16,R16Ade,Friday,7/7/17,H,Adelaide,Ade,Western Bulldogs,Wes,Adelaide Oval,7:50 pm,N,SA
+128,16,R16Haw,Saturday,8/7/17,H,Hawthorn,Haw,Greater Western Sydney,Gre,University of Tasmania Stadium,1:45 pm,D,TAS
+129,16,R16Col,Saturday,8/7/17,H,Collingwood,Col,Essendon,Ess,MCG,2:10 pm,D,VIC
+130,16,R16Syd,Saturday,8/7/17,H,Sydney,Syd,Gold Coast,Gol,SCG,4:35 pm,T,NSW
+131,16,R16Bri,Saturday,8/7/17,H,Brisbane,Bri,Geelong,Gee,Gabba,7:25 pm,N,QLD
+132,16,R16StK,Saturday,8/7/17,H,StKilda,StK,Richmond,Ric,Etihad Stadium,7:25 pm,N,VIC
+133,16,R16Nor,Sunday,9/7/17,H,North Melbourne,Nor,Fremantle,Fre,Etihad Stadium,1:10 pm,D,VIC
+134,16,R16Car,Sunday,9/7/17,H,Carlton,Car,Melbourne,Mel,MCG,3:20 pm,D,VIC
+135,16,R16WCE,Sunday,9/7/17,H,WCE,WCE,Port Adelaide,Por,Domain Stadium,4:40 pm,T,WA
+136,17,R17StK,Friday,14/7/17,H,StKilda,StK,Essendon,Ess,Etihad Stadium,7:50 pm,N,VIC
+137,17,R17Gee,Saturday,15/7/17,H,Geelong,Gee,Hawthorn,Haw,MCG,1:45 pm,D,VIC
+138,17,R17Por,Saturday,15/7/17,H,Port Adelaide,Por,North Melbourne,Nor,Adelaide Oval,2:10 pm,D,SA
+139,17,R17Gol,Saturday,15/7/17,H,Gold Coast,Gol,Collingwood,Col,Metricon Stadium,4:35 pm,T,QLD
+140,17,R17Gre,Saturday,15/7/17,H,Greater Western Sydney,Gre,Sydney,Syd,Spotless Stadium,7:25 pm,N,NSW
+141,17,R17Mel,Saturday,15/7/17,H,Melbourne,Mel,Adelaide,Ade,TIO Stadium,7:40 pm,N,NTE
+142,17,R17Ric,Sunday,16/7/17,H,Richmond,Ric,Brisbane,Bri,Etihad Stadium,1:10 pm,D,VIC
+143,17,R17Car,Sunday,16/7/17,H,Carlton,Car,Western Bulldogs,Wes,MCG,3:20 pm,D,VIC
+144,17,R17Fre,Sunday,16/7/17,H,Fremantle,Fre,WCE,WCE,Domain Stadium,4:40 pm,T,WA
+145,18,R18Ade,Friday,21/7/17,H,Adelaide,Ade,Geelong,Gee,Adelaide Oval,7:50 pm,N,SA
+146,18,R18Ess,Saturday,22/7/17,H,Essendon,Ess,North Melbourne,Nor,Etihad Stadium,1:45 pm,D,VIC
+147,18,R18Mel,Saturday,22/7/17,H,Melbourne,Mel,Port Adelaide,Por,MCG,2:10 pm,D,VIC
+148,18,R18Wes,Saturday,22/7/17,H,Western Bulldogs,Wes,Gold Coast,Gol,Cazalys Stadium,4:35 pm,T,QLD
+149,18,R18Syd,Saturday,22/7/17,H,Sydney,Syd,StKilda,StK,SCG,7:25 pm,N,NSW
+150,18,R18Fre,Saturday,22/7/17,H,Fremantle,Fre,Hawthorn,Haw,Domain Stadium,7:40 pm,N,WA
+151,18,R18Ric,Sunday,23/7/17,H,Richmond,Ric,Greater Western Sydney,Gre,MCG,1:10 pm,D,VIC
+152,18,R18Col,Sunday,23/7/17,H,Collingwood,Col,WCE,WCE,Etihad Stadium,3:20 pm,D,VIC
+153,18,R18Bri,Sunday,23/7/17,H,Brisbane,Bri,Carlton,Car,Gabba,4:40 pm,T,QLD
+154,19,R19Haw,Friday,28/7/17,H,Hawthorn,Haw,Sydney,Syd,MCG,7:50 pm,N,VIC
+155,19,R19Nor,Saturday,29/7/17,H,North Melbourne,Nor,Melbourne,Mel,Blundstone Arena,1:45 pm,D,TAS
+156,19,R19Gre,Saturday,29/7/17,H,Greater Western Sydney,Gre,Fremantle,Fre,Spotless Stadium,2:10 pm,D,NSW
+157,19,R19Por,Saturday,29/7/17,H,Port Adelaide,Por,StKilda,StK,Adelaide Oval,4:35 pm,T,SA
+158,19,R19Car,Saturday,29/7/17,H,Carlton,Car,Geelong,Gee,Etihad Stadium,7:25 pm,N,VIC
+159,19,R19Gol,Saturday,29/7/17,H,Gold Coast,Gol,Richmond,Ric,Metricon Stadium,7:25 pm,N,QLD
+160,19,R19Wes,Sunday,30/7/17,H,Western Bulldogs,Wes,Essendon,Ess,Etihad Stadium,1:10 pm,D,VIC
+161,19,R19Col,Sunday,30/7/17,H,Collingwood,Col,Adelaide,Ade,MCG,3:20 pm,D,VIC
+162,19,R19WCE,Sunday,30/7/17,H,WCE,WCE,Brisbane,Bri,Domain Stadium,4:40 pm,T,WA
+163,20,R20Gee,Friday,4/8/17,H,Geelong,Gee,Sydney,Syd,Simonds Stadium,7:50 pm,N,VIC
+164,20,R20Gre,Saturday,5/8/17,H,Greater Western Sydney,Gre,Melbourne,Mel,Manuka Oval,1:45 pm,D,NSW
+165,20,R20Ess,Saturday,5/8/17,H,Essendon,Ess,Carlton,Car,MCG,2:10 pm,D,VIC
+166,20,R20Bri,Saturday,5/8/17,H,Brisbane,Bri,Western Bulldogs,Wes,Gabba,4:35 pm,T,QLD
+167,20,R20Nor,Saturday,5/8/17,H,North Melbourne,Nor,Collingwood,Col,Etihad Stadium,7:25 pm,N,VIC
+168,20,R20Fre,Saturday,5/8/17,H,Fremantle,Fre,Gold Coast,Gol,Domain Stadium,7:40 pm,N,WA
+169,20,R20StK,Sunday,6/8/17,H,StKilda,StK,WCE,WCE,Etihad Stadium,1:10 pm,D,VIC
+170,20,R20Ric,Sunday,6/8/17,H,Richmond,Ric,Hawthorn,Haw,MCG,3:20 pm,D,VIC
+171,20,R20Ade,Sunday,6/8/17,H,Adelaide,Ade,Port Adelaide,Por,Adelaide Oval,4:40 pm,D,SA
+172,21,R21Wes,Friday,11/8/17,H,Western Bulldogs,Wes,Greater Western Sydney,Gre,Etihad Stadium,7:50 pm,N,VIC
+173,21,R21Syd,Saturday,12/8/17,H,Sydney,Syd,Fremantle,Fre,SCG,1:45 pm,D,NSW
+174,21,R21Gee,Saturday,12/8/17,H,Geelong,Gee,Richmond,Ric,Simonds Stadium,2:10 pm,D,VIC
+175,21,R21Bri,Saturday,12/8/17,H,Brisbane,Bri,Gold Coast,Gol,Gabba,4:35 pm,T,QLD
+176,21,R21Ess,Saturday,12/8/17,H,Essendon,Ess,Adelaide,Ade,Etihad Stadium,7:25 pm,N,VIC
+177,21,R21WCE,Saturday,12/8/17,H,WCE,WCE,Carlton,Car,Domain Stadium,7:40 pm,N,WA
+178,21,R21Mel,Sunday,13/8/17,H,Melbourne,Mel,StKilda,StK,MCG,1:10 pm,D,VIC
+179,21,R21Haw,Sunday,13/8/17,H,Hawthorn,Haw,North Melbourne,Nor,University of Tasmania Stadium,3:20 pm,D,TAS
+180,21,R21Por,Sunday,13/8/17,H,Port Adelaide,Por,Collingwood,Col,Adelaide Oval,4:40 pm,D,SA
+181,22,R22Ade,Friday,18/8/17,H,Adelaide,Ade,Sydney,Syd,Adelaide Oval,7:50 pm,N,SA
+182,22,R22Wes,Saturday,19/8/17,H,Western Bulldogs,Wes,Port Adelaide,Por,Eureka Stadium,1:45 pm,D,VIC
+183,22,R22Col,Saturday,19/8/17,H,Collingwood,Col,Geelong,Gee,MCG,2:10 pm,D,VIC
+184,22,R22Gre,Saturday,19/8/17,H,Greater Western Sydney,Gre,WCE,WCE,Spotless Stadium,4:35 pm,T,NSW
+185,22,R22Ess,Saturday,19/8/17,A,Essendon,Ess,Gold Coast,Gol,Metricon Stadium,7:25 pm,N,QLD
+186,22,R22Car,Saturday,19/8/17,H,Carlton,Car,Hawthorn,Haw,Etihad Stadium,7:25 pm,N,VIC
+187,22,R22Mel,Sunday,20/8/17,H,Melbourne,Mel,Brisbane,Bri,MCG,1:10 pm,D,VIC
+188,22,R22StK,Sunday,20/8/17,H,StKilda,StK,North Melbourne,Nor,Etihad Stadium,3:20 pm,D,VIC
+189,22,R22Fre,Sunday,20/8/17,H,Fremantle,Fre,Richmond,Ric,Domain Stadium,4:40 pm,T,WA
+190,23,R23Nor,,25/8/17,A,North Melbourne,Nor,Brisbane,Bri,Gabba,,,QLD
+191,23,R23Mel,,25/8/17,A,Melbourne,Mel,Collingwood,Col,MCG,,,VIC
+192,23,R23Fre,,25/8/17,A,Fremantle,Fre,Essendon,Ess,Etihad Stadium,,,VIC
+193,23,R23Gre,,25/8/17,A,Greater Western Sydney,Gre,Geelong,Gee,Simonds Stadium,,,VIC
+194,23,R23Wes,,25/8/17,A,Western Bulldogs,Wes,Hawthorn,Haw,Etihad Stadium,,,VIC
+195,23,R23Gol,,25/8/17,A,Gold Coast,Gol,Port Adelaide,Por,Adelaide Oval,,,SA
+196,23,R23StK,,25/8/17,A,StKilda,StK,Richmond,Ric,MCG,,,VIC
+197,23,R23Car,,25/8/17,A,Carlton,Car,Sydney,Syd,SCG,,,NSW
+198,23,R23Ade,,25/8/17,A,Adelaide,Ade,WCE,WCE,Domain Stadium,,,WA

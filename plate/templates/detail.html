@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %} {{ page_name }} {% endblock %}
+
+{% block content %}
+
+<table style="width:100%">
+  <tr>
+    <th>Round</th>
+    <th>Game</th>
+    <th>Home Team</th>
+    <th>Away Team</th>
+  </tr>
+  {% if game_list %}
+      {% for Fixture in game_list %}
+          <tr>
+            <td>{{ Fixture.round_no }}</td>
+            <td>{{ Fixture.rg_no }}</td>
+            <td>{{ Fixture.home_team }} </td>
+            <td>{{ Fixture.away_team }}</td>
+          </tr>
+    {% endfor %}
+</table>
+
+{% else %}
+    <p>No games are available.</p>
+{% endif %}
+
+</div>
+{% endblock %}
