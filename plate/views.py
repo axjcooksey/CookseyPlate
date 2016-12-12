@@ -4,7 +4,6 @@ from django.http import JsonResponse
 import datetime
 from django.contrib.auth.decorators import login_required
 from django.template import loader
-from Tkinter import *
 import simplejson as json
 from .forms import *
 from django.contrib.auth import authenticate, login
