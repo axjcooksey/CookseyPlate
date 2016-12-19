@@ -29,7 +29,7 @@ def index(request):
 
 #def detail(request, round_no):
 #    return HttpResponse("You're looking at round %s." % round_no)
-
+@login_required(login_url="/login/")
 def detail(request, round_no):
     try:
         game_list = Fixture.objects.filter(round_no=1).order_by('game_no')
