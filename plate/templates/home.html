@@ -5,7 +5,21 @@
 
 {% block content %}
 
-
+<!-- Page Numbering -->
+<div class="row medium-8 large-7 columns">
+  <div class="column row">
+    <label class="text-center">Select Round</label>
+    <ul class="pagination text-center" role="navigation" aria-label="Pagination">
+        <li class="pagination-previous disabled">Previous</li>
+        <li class="current"><span class="show-for-sr">You're on round</span> 0</li>
+        <li><a href="/1" aria-label="Round 1">1</a></li>
+        <li><a href="/2" aria-label="Round 2">2</a></li>
+        <li><a>3</a></li>
+        <li><a>4</a></li>
+        <li><a>5</a></li>
+        <li class="pagination-next"><a href="/1" aria-label="Next page">Next</a></li>
+    </ul>
+  </div>
 
 {% endblock %}
 
